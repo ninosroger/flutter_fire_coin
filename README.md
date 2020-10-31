@@ -14,14 +14,7 @@
 
 ## 界面截图
 
-![image](https://github.com/ninosroger/flutter_fire_coin/blob/master/images/1.jpg)
-![image](https://github.com/ninosroger/flutter_fire_coin/blob/master/images/2.jpg)
-![image](https://github.com/ninosroger/flutter_fire_coin/blob/master/images/3.jpg)
-![image](https://github.com/ninosroger/flutter_fire_coin/blob/master/images/4.jpg)
-![image](https://github.com/ninosroger/flutter_fire_coin/blob/master/images/5.jpg)
-![image](https://github.com/ninosroger/flutter_fire_coin/blob/master/images/6.jpg)
-![image](https://github.com/ninosroger/flutter_fire_coin/blob/master/images/7.jpg)
-![image](https://github.com/ninosroger/flutter_fire_coin/blob/master/images/8.jpg)
+<img src="https://github.com/ninosroger/flutter_fire_coin/blob/master/images/2.jpg" width="480" />
 
 ## Getting Started
 
